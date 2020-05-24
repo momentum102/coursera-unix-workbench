@@ -1,6 +1,6 @@
-### Guessing game project 
+# Guessing game project 
 
 
-Last executed at Вс май 24 20:55:40 MSK 2020.
+Last executed at Вс май 24 21:29:10 MSK 2020.
 
 Number of rows: 20
